@@ -1,5 +1,5 @@
-- 👋 Hi, I’m blesson
-- 👀 I’m interested in Machine Learning and AI
+~ 👋 Hi, I’m blesson
+~ 👀 I’m interested in Machine Learning and AI
 ~ 🌱 I’m currently learning Machine Learning
 ~ working on something interesting 
 <!---
